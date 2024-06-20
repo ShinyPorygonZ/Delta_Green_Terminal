@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Delta Green Agent Terminal",
+    "serverName": "Wei's Battlestation",
     "iconName": "Logo.png",
-    "terminalID": "D56",
+    "terminalID": "W9920",
     "defaultUser": {
         "userId": "user",
         "password": "",
